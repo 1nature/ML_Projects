@@ -26,4 +26,3 @@ dataset["attendance"] = dataset["attendance"].str.replace(",", "").astype(float)
 dataset.info()
 
 
-
